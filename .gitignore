@@ -1,0 +1,7 @@
+#Ignorer SWAP-FILES (fichiers de sauvegarde)
+*~
+*.swo
+*.swp
+
+# Ignorer les fichiers python compilés
+*.pyc
